@@ -1,0 +1,96 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ARC-AGI Starter Framework (provided by course - DO NOT POST)
+ArcDriver.py
+ArcProblem.py
+ArcSet.py
+ArcData.py
+ArcColors.py
+arc_core.py
+requirements.txt
+PROGRAM_GUIDE.md
+PROJECT_WALKTHROUGH.md
+
+# ARC-AGI Data (includes test problems - DO NOT POST)
+data/
+Milestone_Results.csv
+
+# ARC-AGI Submission artifacts
+submission/
+MilestoneSources/
+reports/
+diagrams/
+tools/
+
+# MiniProject Starter Files (provided by course - DO NOT POST)
+MiniProject1-SemanticNets/main.py
+MiniProject1-SemanticNets/requirements.txt
+MiniProject2-BlockWorld/main.py
+MiniProject2-BlockWorld/requirements.txt
+MiniProject3-SentenceReading/main.py
+MiniProject3-SentenceReading/requirements.txt
+MiniProject3-SentenceReading/dev_tests.py
+MiniProject3-SentenceReading/mostcommon.txt
+MiniProject3-SentenceReading/_build.txt
+MiniProject3-SentenceReading/report/
+
+# ChineseCheckers Starter Framework (provided by course - DO NOT POST)
+ChineseCheckers/Agent.py
+ChineseCheckers/board.py
+ChineseCheckers/game.py
+ChineseCheckers/game_snapshot.py
+ChineseCheckers/Launcher.py
+ChineseCheckers/ui.py
+ChineseCheckers/HumanAgent.py
+ChineseCheckers/RandomAgent.py
+ChineseCheckers/utility.py
+ChineseCheckers/Documentation/
+ChineseCheckers/History/
+ChineseCheckers/dev/
+
+# Gaming Starter Framework (provided by course - DO NOT POST)
+Gaming-TicTacToe-Connect4/Game.py
+Gaming-TicTacToe-Connect4/GameDriver.py
+Gaming-TicTacToe-Connect4/Connect4Game.py
+Gaming-TicTacToe-Connect4/TicTacToeGame.py
+Gaming-TicTacToe-Connect4/Token.py
+Gaming-TicTacToe-Connect4/GameEndingStatus.py
+Gaming-TicTacToe-Connect4/GameStats.py
+Gaming-TicTacToe-Connect4/GameUtil.py
+Gaming-TicTacToe-Connect4/RandomAgent.py
+Gaming-TicTacToe-Connect4/requirements.txt
+Gaming-TicTacToe-Connect4/*.pdf
+
+# Submitted PDFs (DO NOT POST)
+submissions/
+
+# Lecture notes (course material - DO NOT POST)
+LectureNotes/
+
+# Homework journals (submitted to Canvas - DO NOT POST)
+Homework/
+
+# Exam study materials
+Exam2Study/
+
+# .kiro and .claude (local config)
+.kiro/
+.claude/
